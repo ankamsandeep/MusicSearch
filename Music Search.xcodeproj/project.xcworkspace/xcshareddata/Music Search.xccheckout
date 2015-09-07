@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D8D67734-68B6-4B2B-9794-0EE223A0F996</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Music Search</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C906BA796823E0EF367641460CAA2CA13616568A</key>
+		<string>https://github.com/ankamsandeep/MusicSearch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Music Search.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C906BA796823E0EF367641460CAA2CA13616568A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ankamsandeep/MusicSearch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C906BA796823E0EF367641460CAA2CA13616568A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C906BA796823E0EF367641460CAA2CA13616568A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Music%20Search%202</string>
+		</dict>
+	</array>
+</dict>
+</plist>
